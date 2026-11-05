@@ -156,7 +156,7 @@ ClubSphere/
 
 ## Video presentation
 
-Add the Google Drive link to the recorded video here: `<video link>`
+Add the Google Drive link to the recorded video here:  https://drive.google.com/file/d/1HOmBo-jtfaMBFioyRmUR1j0iC-Qu1Kii/view?usp=drivesdk
 
 ---
 
