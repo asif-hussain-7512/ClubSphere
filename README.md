@@ -1,2 +1,0 @@
-# ClubSphere
-My EOA project
